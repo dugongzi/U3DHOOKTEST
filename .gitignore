@@ -1,0 +1,46 @@
+# ===== Unity / Tuanjie 生成目录 =====
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Burst 调试信息（不随包发布）
+*_BurstDebugInformation_DoNotShip/
+
+# 构建产物
+*.apk
+*.aab
+*.aar
+*.unitypackage
+*.app
+
+# ===== IDE / 编辑器 =====
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ===== 操作系统 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== 其他 =====
+*.tmp
+*.log
